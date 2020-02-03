@@ -18,7 +18,7 @@ It was built using:
 
 **You need install Yarn and some other packages to make work !**
 
-**_In order for you to test it you need to change the mongoose.connect parameter with your MongoDB username and password_ and change the Backend IP to yout LocalHost IP**
+**_In order for you to test it you need to change the mongoose.connect parameter with your MongoDB username and password_ and change the Backend IP to your LocalHost IP**
 
 #### [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
 
